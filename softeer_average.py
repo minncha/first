@@ -9,3 +9,5 @@ for i in range(k):
     average = sum(s[a-1:b])/(b-a+1)
     
     print("%0.2f"%average)
+    
+    print("ddd")
